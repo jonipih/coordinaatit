@@ -16,6 +16,23 @@
       "rewrite": "/lkdsfjdkjf.html",
       "redirect": "/lkdsfjdkjf.html",
       "statusCode": 301
+    },
+    {
+      "route": "/",
+      "methods": [
+        "get",
+        "head",
+        "post",
+        "put",
+        "delete",
+        "connect",
+        "options",
+        "trace",
+        "patch"
+      ],
+      "rewrite": "/dskfhkjhf.html",
+      "redirect": "/dskfhkjhf.html",
+      "statusCode": 301
     }
   ]
 }
